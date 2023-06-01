@@ -1,0 +1,9 @@
+{
+   "leds": [],
+   "vars": {},
+   "KEY_SPACE": "echo '%greeting%!'",
+   "KEY_ESC": "layer:default",
+   "KEY_0+KEY_D": "script:screenshot.sh",
+   "KEY_0+KEY_D+HELD": "script:video.sh",
+   "KEY_8+KEY_D": "script:video-stop.sh"
+}

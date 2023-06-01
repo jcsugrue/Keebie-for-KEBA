@@ -1,0 +1,8 @@
+{
+   "initial_layer": "keba.json",
+   "event": "event6",
+   "udev_tests": [
+      "KERNEL==\"event6\""
+   ],
+   "udev_rule": "85-keebie-event6.rules"
+}
